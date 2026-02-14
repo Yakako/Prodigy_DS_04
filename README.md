@@ -1,5 +1,7 @@
 # Task-04: Social Media Sentiment Analysis
+
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
+
 ---
 
 # 📋 Project Overview
